@@ -22,5 +22,5 @@ A simple and interactive TodoList application built with **HTML**, **CSS**, and 
 3. Use the input field to add tasks to your TodoList.
 4. Click the delete button next to a task to remove it.
 
-## Folder Structure
+
 
